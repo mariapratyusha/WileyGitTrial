@@ -1,1 +1,2 @@
-Fourth File, although Feature1 hasn't been created yet.
+Fourth File, although Feature1 hasn't been created yet. 
+In master
